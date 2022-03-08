@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Tools
+<p align="left"> <a href="https://obsidian.md/" target="_blank"> <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.KlEHdMWzLui0S-vvfNxxpAHaHa?pid=ImgDet&w=2048&h=2048&rs=1" alt="bash" width="40" height="40"/> </a>
 <!--
 **Zerokei/Zerokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
