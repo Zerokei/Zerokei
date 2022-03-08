@@ -3,7 +3,7 @@
 ### Tools
 <p align="left"> 
 <a href="https://obsidian.md/" target="_blank"> <img src="https://keycombiner.com/media/application-icons/obsidian.png" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.notion.so/" target="_blank"> <img src="https://keycombiner.com/media/application-icons/notion_jUmAa5Y.png" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.notion.so/" target="_blank"> <img src="https://keycombiner.com/media/application-icons/notion_jUmAa5Y.png" alt="bash" width="35" height="35"/> </a>
 <!--
 **Zerokei/Zerokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
