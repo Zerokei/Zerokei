@@ -12,7 +12,7 @@
 </br>
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-8E2FFA?logo=obsidian&logoColor=fff)
-![Notion](https://img.shields.io/badge/-Notion-6F7882?logo=notion&logoColor=000)
+![Notion](https://img.shields.io/badge/-Notion-6F7882?logo=notion&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff)
 ![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20IDE-e62952?logo=jetbrains&logoColor=fff) 
 </br>
