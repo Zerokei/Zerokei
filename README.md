@@ -11,8 +11,10 @@
 ![x86 asm](https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff) 
 </br>
 
-![Markdown](https://img.shields.io/badge/-Markdown-555555?logo=markdown&logoColor=fff)
-![Latex](https://img.shields.io/badge/-LaTeX-111111?logo=latex&logoColor=fff)
+![Obsidian](https://img.shields.io/badge/-Obsidian-8E2FFA?logo=obsidian&logoColor=fff)
+![Notion](https://img.shields.io/badge/-Notion-6F7882?logo=notion&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff)
+![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20IDE-e62952?logo=jetbrains&logoColor=fff) 
 </br>
 
 ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff) 
@@ -21,7 +23,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000) 
 </br>
 
-![Obsidian](https://img.shields.io/badge/-Obsidian-8E2FFA?logo=obsidian&logoColor=fff)
-![Notion](https://img.shields.io/badge/-Notion-6F7882?logo=notion&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=fff)
-![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20IDE-e62952?logo=jetbrains&logoColor=fff) 
+![Markdown](https://img.shields.io/badge/-Markdown-555555?logo=markdown&logoColor=fff)
+![Latex](https://img.shields.io/badge/-LaTeX-111111?logo=latex&logoColor=fff)
