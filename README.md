@@ -20,7 +20,7 @@
 ![git](https://img.shields.io/badge/-git-F05032?logo=git&logoColor=fff) 
 ![shell](https://img.shields.io/badge/-shell-4EAA25?logo=gnu%20bash&logoColor=fff) 
 ![RSS](https://img.shields.io/badge/-RSS-FD6737?logo=rss&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=fff) 
 </br>
 
 ![Markdown](https://img.shields.io/badge/-Markdown-555555?logo=markdown&logoColor=fff)
