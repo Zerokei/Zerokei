@@ -8,6 +8,8 @@
 <a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank"> <img src="https://img.icons8.com/color/344/intellij-idea.png" alt="bash" width="40" height="40"/> </a>
 <a href="https://hexo.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hexo-a-fast-simple-powerful-blog-framework-powered-by-node-js-logo-shadow-tal-revivo.png" alt="bash" width="40" height="40"/> </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerokei)](https://github.com/anuraghazra/github-readme-stats)
+
 <figure><embed src="https://wakatime.com/share/@d64c6893-3d17-4579-922d-1c6d5a8bf84b/893d71f3-6b1e-464c-a71a-2fc811a53907.svg"></embed></figure>
 <!--
 **Zerokei/Zerokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
