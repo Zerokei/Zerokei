@@ -12,6 +12,7 @@
 ![x86 asm](https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff) 
 ![Jetbrains IDE](https://img.shields.io/badge/-Jetbrains%20IDE-e62952?logo=jetbrains&logoColor=fff) 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-8E2FFA?logo=obsidian)
+![Notion](https://img.shields.io/badge/-Notion-6F7882?logo=notion)
 ### Tools
 <p align="left"> 
 <a href="https://obsidian.md/" target="_blank"> <img src="https://keycombiner.com/media/application-icons/obsidian.png" alt="bash" width="40" height="40"/> </a>
