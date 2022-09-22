@@ -3,6 +3,9 @@
 <!-- 显示star等信息 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerokei&show_icons=true&theme=default)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zerokei&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chritch's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerokei&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ### Languages & Tools
 ![C](https://img.shields.io/badge/-C-a8b9cc?logo=c&logoColor=fff) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599c?logo=c%2B%2B&logoColor=fff) 
