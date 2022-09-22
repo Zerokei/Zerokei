@@ -9,7 +9,7 @@
 <a href="https://hexo.io/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hexo-a-fast-simple-powerful-blog-framework-powered-by-node-js-logo-shadow-tal-revivo.png" alt="bash" width="40" height="40"/> </a>
 <!-- 显示star等信息 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerokei&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerokei&show_icons=true&theme=default)
 
 <!-- 显示主要使用语言 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerokei)](https://github.com/anuraghazra/github-readme-stats)
