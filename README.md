@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/-C%2B%2B-00599c?logo=c%2B%2B&logoColor=fff" alt="C++" /> 
 <img src="https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff" alt="Python" /> 
 <img src="https://img.shields.io/badge/-Scala-c02300?logo=scala&logoColor=fff" alt="Scala" />
+<img src="https://img.shields.io/badge/Verilog-bfbaf6?logo=v&logoColor=fff" alt="Verilog" />
 <img src="https://img.shields.io/badge/-x86%20asm-0071C5?logo=intel&logoColor=fff" alt="x86 asm" />
 </p>
 
