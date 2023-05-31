@@ -10,7 +10,7 @@
 
 ## Formal Projects
 
-- [ZeroCPU](https://github.com/Zerokei/ZeroCPU)
+- [ZeroCPU](https://github.com/Zerokei/ZeroCPU): A RISC-V architecture CPU with support for a five-stage pipeline and cache.
 - [NaiveEditor](https://github.com/Zerokei/NaiveEditor): The naive editor designed with bash language.
 - [Light](https://github.com/Zerokei/Light): A photovoltaic hybrid energy storage simulation system.
 - [Notes](https://github.com/Zerokei/Notes): My class notes and computer science wiki deployed with mkdocs.
