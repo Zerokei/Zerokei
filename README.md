@@ -1,6 +1,20 @@
-### Hi there~ 👋
+# Hi there~ 👋
 ❤️ Gray Market Research, Metaphysics  
 🔗 [Personal Homepage](https://zerokei.top)
-<!-- 显示star等信息 -->
-| <a href="https://github.com/Zerokei/Zerokei"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zerokei&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chritch's github stats" /></a> | <a href="https://github.com/Zerokei/Zerokei"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerokei&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+## Maintained Projects
+
+- [ObsidianSnippets](https://github.com/Zerokei/ObsidianSnippets): Obsidian CSS Snippets
+- [ZeroSetup](https://github.com/Zerokei/ZeroSetup): Ubuntu and docker startup settings.
+- [askGPT](https://github.com/Zerokei/askGPT): Use ChatGPT API with command line.
+
+## Formal Projects
+
+- [ZeroCPU](https://github.com/Zerokei/ZeroCPU)
+- [NaiveEditor](https://github.com/Zerokei/NaiveEditor): The naive editor designed with bash language.
+- [Light](https://github.com/Zerokei/Light): A photovoltaic hybrid energy storage simulation system.
+- [Notes](https://github.com/Zerokei/Notes): My class notes and computer science wiki deployed with mkdocs.
+- [Simple Meshware](https://github.com/Zerokei/Simple-Meshware): My Simple Meshware designed in OOP class.
+- [KeiShell](https://github.com/Zerokei/KeiShell): A simple shell designed with Java language.
+- [minisql](https://github.com/Zerokei/minisql): A simple database system.
+- [Libaray Management System](https://github.com/Zerokei/Library_Management_System): A simple library management system.
