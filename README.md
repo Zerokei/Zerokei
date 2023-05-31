@@ -2,13 +2,13 @@
 ❤️ Gray Market Research, Metaphysics  
 🔗 [Personal Homepage](https://zerokei.top)
 
-## Maintained Projects
+## 🛠️ Maintained Projects
 
 - [ObsidianSnippets](https://github.com/Zerokei/ObsidianSnippets): Obsidian CSS Snippets. ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff) 
 - [ZeroSetup](https://github.com/Zerokei/ZeroSetup): Ubuntu and docker startup settings. ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu%20bash&logoColor=fff) ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) 
 - [askGPT](https://github.com/Zerokei/askGPT): Use ChatGPT API with command line. ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
 
-## Formal Projects
+## 🗃️ Formal Projects
 
 - [ZeroCPU](https://github.com/Zerokei/ZeroCPU): A RISC-V architecture CPU with support for a five-stage pipeline and cache. ![Scala](https://img.shields.io/badge/-Scala-c02300?logo=scala&logoColor=fff) ![Verilog](https://img.shields.io/badge/-Verilog-625f86?logo=v&logoColor=fff)
 - [NaiveEditor](https://github.com/Zerokei/NaiveEditor): A naive text editor. ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu%20bash&logoColor=fff) 
