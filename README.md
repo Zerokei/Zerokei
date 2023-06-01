@@ -4,6 +4,7 @@
 
 ## 🛠️ Maintained Projects
 
+- [Obsidian Notebook](https://obsidian.zerokei.top/): The notes I create using Obsidian and publish with [Obsidian Digital Garden Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=fff) ![Markdown](https://img.shields.io/badge/-Markdown-444444?logo=markdown) 
 - [ObsidianSnippets](https://github.com/Zerokei/ObsidianSnippets): Obsidian CSS Snippets. ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=fff) 
 - [ZeroSetup](https://github.com/Zerokei/ZeroSetup): Ubuntu and docker startup settings. ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu%20bash&logoColor=fff) ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) 
 - [AskGPT](https://github.com/Zerokei/AskGPT): Use ChatGPT API with command line. ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
