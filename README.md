@@ -15,7 +15,7 @@
 ## 🗃️ Formal Projects
 
 - [ZeroCPU](https://github.com/Zerokei/ZeroCPU): A RISC-V architecture CPU with support for a five-stage pipeline and cache. ![Scala](https://img.shields.io/badge/-Scala-c02300?logo=scala&logoColor=fff) ![Verilog](https://img.shields.io/badge/-Verilog-625f86?logo=v&logoColor=fff)
-- [DepGuard](https://github.com/Zerokei/DepGuard): A tool for exploring npm modules and dependencies. ![React](https://img.shields.io/badge/-React-5ed3f3?logo=React&logoColor=000)
+- [DepGuard](https://github.com/Zerokei/DepGuard): A tool for exploring npm modules and dependencies. ![React](https://img.shields.io/badge/-React-4ec3e3?logo=React&logoColor=fff)
 - [NaiveEditor](https://github.com/Zerokei/NaiveEditor): A naive text editor. ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu%20bash&logoColor=fff) 
 - [Light](https://github.com/Zerokei/Light): A photovoltaic hybrid energy storage simulation system. ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=fff)
 - [Notes](https://github.com/Zerokei/Notes): My class notes and computer science wiki deployed with mkdocs. ![Markdown](https://img.shields.io/badge/-Markdown-444444?logo=markdown)
