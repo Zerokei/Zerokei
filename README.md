@@ -1,7 +1,9 @@
-# Hi there~ 👋
-❤️ Gray Market Research, Metaphysics  
-📖 Blockchain  
-🔗 [Personal Homepage](https://zerokei.top)
+<h1 align="center"> Hi there~ 👋</h1>
+<div align="center">
+🔗 <a href="https://zerokei.top">Personal Homepage</a> <br/>
+❤️ Gray Market Research, Metaphysics <br/>
+📖 Blockchain   <br/>
+</div>
 
 ## 🛠️ Maintained Projects
 
